@@ -1,1 +1,1 @@
-my task 6
+Betty in my first directory
