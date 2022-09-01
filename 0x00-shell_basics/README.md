@@ -1,1 +1,1 @@
-Task 2 on Shell basics
+Task 2 on shell basics
