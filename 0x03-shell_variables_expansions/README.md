@@ -1,1 +1,1 @@
-Global variable for task 7
+Every addition to true knowledge is an addition to human power
